@@ -1,0 +1,16 @@
+C:\Users\Emerson\source\repos\ReportGeneratorApp_WPF_new\ReportGeneratorApp_WPF_new\bin\Debug\ReportGeneratorApp_WPF_new.exe.config
+C:\Users\Emerson\source\repos\ReportGeneratorApp_WPF_new\ReportGeneratorApp_WPF_new\bin\Debug\ReportGeneratorApp_WPF_new.exe
+C:\Users\Emerson\source\repos\ReportGeneratorApp_WPF_new\ReportGeneratorApp_WPF_new\bin\Debug\ReportGeneratorApp_WPF_new.pdb
+C:\Users\Emerson\source\repos\ReportGeneratorApp_WPF_new\ReportGeneratorApp_WPF_new\obj\Debug\ReportGeneratorApp_WPF_new.csproj.AssemblyReference.cache
+C:\Users\Emerson\source\repos\ReportGeneratorApp_WPF_new\ReportGeneratorApp_WPF_new\obj\Debug\ReportGeneratorApp_WPF_new.csproj.SuggestedBindingRedirects.cache
+C:\Users\Emerson\source\repos\ReportGeneratorApp_WPF_new\ReportGeneratorApp_WPF_new\obj\Debug\MainWindow.g.cs
+C:\Users\Emerson\source\repos\ReportGeneratorApp_WPF_new\ReportGeneratorApp_WPF_new\obj\Debug\App.g.cs
+C:\Users\Emerson\source\repos\ReportGeneratorApp_WPF_new\ReportGeneratorApp_WPF_new\obj\Debug\ReportGeneratorApp_WPF_new_MarkupCompile.cache
+C:\Users\Emerson\source\repos\ReportGeneratorApp_WPF_new\ReportGeneratorApp_WPF_new\obj\Debug\ReportGeneratorApp_WPF_new_MarkupCompile.lref
+C:\Users\Emerson\source\repos\ReportGeneratorApp_WPF_new\ReportGeneratorApp_WPF_new\obj\Debug\MainWindow.baml
+C:\Users\Emerson\source\repos\ReportGeneratorApp_WPF_new\ReportGeneratorApp_WPF_new\obj\Debug\ReportGeneratorApp_WPF_new.g.resources
+C:\Users\Emerson\source\repos\ReportGeneratorApp_WPF_new\ReportGeneratorApp_WPF_new\obj\Debug\ReportGeneratorApp_WPF_new.Properties.Resources.resources
+C:\Users\Emerson\source\repos\ReportGeneratorApp_WPF_new\ReportGeneratorApp_WPF_new\obj\Debug\ReportGeneratorApp_WPF_new.csproj.GenerateResource.cache
+C:\Users\Emerson\source\repos\ReportGeneratorApp_WPF_new\ReportGeneratorApp_WPF_new\obj\Debug\ReportGeneratorApp_WPF_new.csproj.CoreCompileInputs.cache
+C:\Users\Emerson\source\repos\ReportGeneratorApp_WPF_new\ReportGeneratorApp_WPF_new\obj\Debug\ReportGeneratorApp_WPF_new.exe
+C:\Users\Emerson\source\repos\ReportGeneratorApp_WPF_new\ReportGeneratorApp_WPF_new\obj\Debug\ReportGeneratorApp_WPF_new.pdb
