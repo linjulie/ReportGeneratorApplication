@@ -1,0 +1,71 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Emerson\\source\\repos\\ReportGeneratorApp_WinformDotNet6_new\\ReportGeneratorApp_WinformDotNet6_new\\ReportGeneratorApp_WinformDotNet6_new.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Emerson\\source\\repos\\ReportGeneratorApp_WinformDotNet6_new\\ReportGeneratorApp_WinformDotNet6_new\\ReportGeneratorApp_WinformDotNet6_new.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Emerson\\source\\repos\\ReportGeneratorApp_WinformDotNet6_new\\ReportGeneratorApp_WinformDotNet6_new\\ReportGeneratorApp_WinformDotNet6_new.csproj",
+        "projectName": "ReportGeneratorApp_WinformDotNet6_new",
+        "projectPath": "C:\\Users\\Emerson\\source\\repos\\ReportGeneratorApp_WinformDotNet6_new\\ReportGeneratorApp_WinformDotNet6_new\\ReportGeneratorApp_WinformDotNet6_new.csproj",
+        "packagesPath": "C:\\Users\\Emerson\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Emerson\\source\\repos\\ReportGeneratorApp_WinformDotNet6_new\\ReportGeneratorApp_WinformDotNet6_new\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Emerson\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0-windows7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0-windows7.0": {
+            "targetAlias": "net6.0-windows",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0-windows7.0": {
+          "targetAlias": "net6.0-windows",
+          "dependencies": {
+            "ReportViewerCore.WinForms": {
+              "target": "Package",
+              "version": "[15.1.17, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            },
+            "Microsoft.WindowsDesktop.App.WindowsForms": {
+              "privateAssets": "none"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.301\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
